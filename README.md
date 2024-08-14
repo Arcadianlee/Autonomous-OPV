@@ -1,6 +1,9 @@
 # Lab Automation
 Lab Automation is a modular framework for automating multiple devices or instruments capable of being controlled through Python. It can be combined with optimization algorithms for autonomous process optimization.
 
+## Authors
+Justin Kwok, Changhyun Hwang, Renjie Li, Ying Diao, School fo Chemical Sciences, UIUC
+
 ### Table of Contents
 1. [Description](#description)
 2. [Supported Devices](#supported-devices)
